@@ -1,0 +1,26 @@
+<annotation>
+	<folder>masked</folder>
+	<filename>000302.jpg</filename>
+	<path>/home/harish/Mask-detecction-data-set-for-covid-19/masked/000302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>139</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>masked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>17</ymin>
+			<xmax>246</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

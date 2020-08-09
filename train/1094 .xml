@@ -1,0 +1,38 @@
+<annotation>
+  <folder>unmasked-dataset</folder>
+  <filename>000494</filename>
+  <path>D:\Dataset for covid-19\unmasked-dataset\000494.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>340</width>
+    <height>148</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>unmasked</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56</xmin>
+      <ymin>4</ymin>
+      <xmax>166</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>unmasked</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>12</ymin>
+      <xmax>294</xmax>
+      <ymax>143</ymax>
+    </bndbox>
+  </object>
+</annotation>
